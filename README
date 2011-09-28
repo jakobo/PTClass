@@ -1,0 +1,9 @@
+It's Class.create() from prototype, but standalone. Yep, that's it.
+
+Version 1.7 from https://github.com/sstephenson/prototype
+
+Unminified: 10k
+Minified: 3.3k
+Minified+gzip: 1.7k
+
+What's not to love?
