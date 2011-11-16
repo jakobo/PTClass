@@ -271,8 +271,8 @@ var Class = (function() {
           return function() { return ancestor[m].apply(this, arguments); };
         })(property), method);
 
-        value.valueOf = method.valueOf.bind(method);
-        value.toString = method.toString.bind(method);
+        value.valueOf = bind(method.valueOf, method);
+        value.toString = bind(method.toString, method);
       }
       this.prototype[property] = value;
     }
