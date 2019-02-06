@@ -1,3 +1,11 @@
+=====================
+= NOTE: UNSUPPORTED =
+=====================
+
+This project is no longer supported and does not take issues / bug fixes / pull requests. If you would like to be the maintainer of PTClass, please contact me via github. Otherwise, I recommend using standard classes, as JavaScript has evolved significantly since this library's original creation.
+
+------------------------------------------------------------------------------------------
+
 It's Class.create() from prototype, but standalone. Yep, that's it.
 
 Version 1.7 from https://github.com/sstephenson/prototype
